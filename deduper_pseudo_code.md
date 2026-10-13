@@ -101,8 +101,7 @@ for each line in input_sam:
     add key to seen 
     write line to output 
     kept_count += 1 
-    
-    
+```
 
 
 
